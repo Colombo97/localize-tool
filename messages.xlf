@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template" target-language="pt">
+    <body>
+      <trans-unit id="2288513108450439427" datatype="html">
+        <source>Support</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/core/components/menu-navigation-bottom/menu-navigation-bottom.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/core/components/menu-navigation-bottom/menu-navigation-bottom.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2288513108450439428" datatype="html">
+        <source>Testing</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/core/components/menu-navigation-bottom/menu-navigation-bottom.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/core/components/menu-navigation-bottom/menu-navigation-bottom.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
