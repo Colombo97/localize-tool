@@ -1,3 +1,3 @@
 # localize-tool
 
-just run on project root directory: `node index.js`
+Just run in project root directory: `node index.js`
